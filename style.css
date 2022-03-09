@@ -1,0 +1,35 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px pink;
+}
+
+.note
+{
+    font-size: 15px;
+    color: midnightblue;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: lightpink;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px pink;
+}
+
+video 
+{
+   border-style: dashed; 
+}
